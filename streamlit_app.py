@@ -6,6 +6,7 @@ import shutil
 import os
 from datetime import datetime
 
+# 治ったかな？
 
 st.set_page_config(page_title="江別市ほいくえんアプリ")
 st.write("https://www.city.ebetsu.hokkaido.jp/site/kosodate/72891.html からWEBスクレイピング")
